@@ -1,1 +1,4 @@
-# refactored-chainsaw
+# refactored-chainsaw 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=codeiain_refactored-chainsaw&metric=bugs)](https://sonarcloud.io/dashboard?id=codeiain_refactored-chainsaw) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=codeiain_refactored-chainsaw&metric=code_smells)](https://sonarcloud.io/dashboard?id=codeiain_refactored-chainsaw) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=codeiain_refactored-chainsaw&metric=coverage)](https://sonarcloud.io/dashboard?id=codeiain_refactored-chainsaw) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=codeiain_refactored-chainsaw&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=codeiain_refactored-chainsaw)
+
+[![sonar-scan](https://github.com/codeiain/refactored-chainsaw/actions/workflows/dotnet.yml/badge.svg)](https://github.com/codeiain/refactored-chainsaw/actions/workflows/dotnet.yml)
